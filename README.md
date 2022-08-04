@@ -1,0 +1,2 @@
+# EFI--Hackintosh-MSI-B560M-i5-10400F
+CPU:i5 10400F GPU:1050TI MotherBoard：msiB560M迫击炮
